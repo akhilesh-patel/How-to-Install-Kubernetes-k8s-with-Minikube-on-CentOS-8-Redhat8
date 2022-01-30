@@ -94,6 +94,8 @@
     kubectl expose deployment test-minikube --type=NodePort --port=8080
 # step24:
     kubectl get pod
+   ![Screenshot (901)](https://user-images.githubusercontent.com/64592542/151699677-d58401d7-29cd-4770-b224-8965dbf99a29.png)
+
 # step25:
     minikube service test-minikube --url
    ![Screenshot (893)](https://user-images.githubusercontent.com/64592542/151699286-a42961c5-72f8-4332-bd5e-6a52ac936545.png)
