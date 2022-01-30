@@ -41,7 +41,7 @@
     firewall-cmd --reload
 # step8: 
     dnf install conntrack -y
-    ![image](https://user-images.githubusercontent.com/64592542/151698929-669bf50b-6720-48f0-a9ac-ba71bdf2bf81.png)
+   ![image](https://user-images.githubusercontent.com/64592542/151698929-669bf50b-6720-48f0-a9ac-ba71bdf2bf81.png)
 
     
 # step9:
@@ -81,7 +81,7 @@
 
 # step 20:
     kubectl cluster-info
-    ![Screenshot (887)](https://user-images.githubusercontent.com/64592542/151699147-eafb35c0-85cf-4ef5-a68e-aa10a3263112.png)
+   ![Screenshot (887)](https://user-images.githubusercontent.com/64592542/151699147-eafb35c0-85cf-4ef5-a68e-aa10a3263112.png)
 
 # step21:
     kubectl get nodes
