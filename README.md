@@ -13,7 +13,7 @@
     
     Docker, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox, or VMware Fusion/Workstation
     
-    ![image]https://user-images.githubusercontent.com/64592542/151698831-71022b7d-46b2-4e47-a83b-88a997444ce2.png
+    ![image](https://user-images.githubusercontent.com/64592542/151698831-71022b7d-46b2-4e47-a83b-88a997444ce2.png)
 
 # step by step installation proccess
 # step1: 
