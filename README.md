@@ -1,4 +1,4 @@
-# How to Install Kubernetes(k8s) with Minikube on CentOS 8/ Redhat8
+# How to Install Kubernetes(k8s) with Minikube on CentOS 8/Redhat8
 
 # Prerequisites of MiniKube
 
